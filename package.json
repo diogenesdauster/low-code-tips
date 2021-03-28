@@ -19,6 +19,9 @@
   },
   "homepage": "https://github.com/diogenesdauster/outsystems-tips#readme",
   "dependencies": {
+    "gray-matter": "^4.0.2",
+    "js-yaml": "^3.14.1",
+    "marked": "^2.0.1",
     "next": "^10.0.9",
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
